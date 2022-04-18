@@ -1,2 +1,2 @@
 # Problem-Solving
-Problem solving exercises 
+Simple problem-solving exercises 
